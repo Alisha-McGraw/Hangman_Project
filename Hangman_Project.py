@@ -16,3 +16,7 @@ MAX_ATTEMPTS = 6
 
 
 # Ask the user to pick a letter
+
+print(f'hello')
+#Hello
+
